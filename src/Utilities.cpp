@@ -22,7 +22,7 @@
 #ifdef WIN32
 #include <windows.h>
 
-#include <PowrProf.h>
+#include <powrprof.h>
 #endif
 
 #ifdef max
