@@ -22,7 +22,7 @@
 #ifdef WIN32
 #include <windows.h>
 
-#include <Psapi.h>
+#include <psapi.h>
 #elif defined(__APPLE__)
 #include <unistd.h>
 #include <sys/types.h>
