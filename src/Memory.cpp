@@ -20,7 +20,7 @@
 #include <sstream>
 
 #ifdef WIN32
-#include <Windows.h>
+#include <windows.h>
 
 #include <Psapi.h>
 #elif defined(__APPLE__)
